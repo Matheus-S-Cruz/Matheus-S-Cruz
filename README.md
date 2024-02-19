@@ -1,5 +1,8 @@
 ### Olá, eu sou o Matheus Cruz 👋
 
+## Quem sou eu? 💭
+Tenho 16 anos e estou estudando no terceiro ano do ensino médio, cursando Análise e Desenvolvimento de Sistemas no Senai.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cruz-12ab9a248/)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-S-Cruz&show_icons=true&theme=radical)
@@ -11,3 +14,5 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
+
+Gosto de programar e almejo um emprego futuro em alguma empresa de tecnologia.
