@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Cruz 👋
 
 ## Quem sou eu? 💭
-Tenho 16 anos e estou estudando no terceiro ano do ensino médio, cursando Análise e Desenvolvimento de Sistemas no Senai.
+Tenho 17 anos e estou estudando no terceiro ano do ensino médio, cursando Análise e Desenvolvimento de Sistemas no Senai.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cruz-12ab9a248/)
 
