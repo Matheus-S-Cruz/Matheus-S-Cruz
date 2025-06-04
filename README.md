@@ -16,3 +16,4 @@ Tenho 18 anos e estou fazendo bacharelado em Ciência de Dados e Inteligência A
 </div><br/>
 
 Gosto de programar e almejo um emprego futuro em alguma empresa de tecnologia.
+![AdBlock Badge](https://img.shields.io/badge/AdBlock-F40D12?logo=adblock&logoColor=fff&style=for-the-badge)
