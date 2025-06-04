@@ -3,11 +3,12 @@
 ## Quem sou eu? 💭
 Tenho 18 anos e estou fazendo bacharelado em Ciência de Dados e Inteligência Artificial, no UniSenai.
 
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-S-Cruz&show_icons=true&theme=radical)
+
 ## Entre em contato!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cruz-12ab9a248/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quiusteteu@gmail.com)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-S-Cruz&show_icons=true&theme=radical)
 
 ## Tecnologias que estou estudando
 <div style="display: inline_block">
